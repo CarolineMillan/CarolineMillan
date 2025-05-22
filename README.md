@@ -23,7 +23,7 @@ As a maths graduate, when I started work as a software engineer it wasn't the lo
 ### Recent Projects:
 - Ray Tracer in Rust ([part 1](https://github.com/CarolineMillan/rusty_raytracer) and [part 2](https://github.com/CarolineMillan/rusty_raytracer_pt2))
 - [CHIP-8 Emulator](https://github.com/CarolineMillan/CHIP8_emulator)
-- [Shell in Rust](https://github.com/CarolineMillan/codecrafters-shell-rust)
+- [Shell](https://github.com/CarolineMillan/codecrafters-shell-rust) in Rust
 
 
 ### Uni Projects:
@@ -34,5 +34,5 @@ As a maths graduate, when I started work as a software engineer it wasn't the lo
 
 ### Projects/Courses I've got my eye on: 
 - [From Nand To Tetris](https://www.coursera.org/learn/build-a-computer)
-- Building a compiler/interpreter using the book [_Crafting Interpreters_](https://craftinginterpreters.com/)
-- Continuing with the ray tracer in Rust using [_Ray Tracing: The Rest of Your Life_](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
+- Building a compiler/interpreter using the book [Crafting Interpreters](https://craftinginterpreters.com/)
+- Continuing with the ray tracer in Rust using [Ray Tracing: The Rest of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
