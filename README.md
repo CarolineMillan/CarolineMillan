@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Who are you?
 As a maths graduate, when I started work as a software engineer it wasn't the logic of the code or concepts that were most challenging, it was my lack of knowledge about computers compared to computer science grads. Hence, when transitioning back to work after sick leave, I started with projects like the [_CHIP-8 Emulator_](https://github.com/CarolineMillan/CHIP8_emulator), that would give me a foundation of computer science/architecture knowledge. I am also interested in writing up and expanding on my old coursework projects that I lost when my old laptop died (before I discovered version control...), and exploring various areas of computer science.
 
+-->
 
 Recent Projects:
 - Ray Tracer in Rust ([_part 1_](https://github.com/CarolineMillan/rusty_raytracer) and [_part 2_](https://github.com/CarolineMillan/rusty_raytracer_pt2))
@@ -33,6 +34,3 @@ Projects/Courses I've got my eye on:
 - [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer)
 - Building a compiler/interpreter using the book [_Crafting Interpreters_](https://craftinginterpreters.com/)
 - Continuing with the ray tracer in Rust using [_Ray Tracing: The Rest of Your Life_](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
-- Building a smart tv using an old laptop and a dumb tv, something like [_this_](https://carlriis.com/posts/earlgreytv/) using Linux, or using [_Kodi_](https://kodi.tv/download/raspberry-pi/) or [_Plasma Bigscreen_](https://plasma-bigscreen.org/) and a Raspberry Pi (although I haven't seen good reviews of this method).
-
--->
