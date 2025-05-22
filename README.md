@@ -23,7 +23,7 @@ As a maths graduate, when I started work as a software engineer it wasn't the lo
 Recent Projects:
 - Ray Tracer in Rust ([_part 1_](https://github.com/CarolineMillan/rusty_raytracer) and [_part 2_](https://github.com/CarolineMillan/rusty_raytracer_pt2))
 - [_CHIP-8 Emulator_](https://github.com/CarolineMillan/CHIP8_emulator)
-- [_Shell in Rust_](https://github.com/CarolineMillan/codecrafters-shell-rust) (using [_this codecrafters tutorial_](https://app.codecrafters.io/courses/shell/overview))
+- [_Shell in Rust_](https://github.com/CarolineMillan/codecrafters-shell-rust)
 
 Uni Projects:
 - Advanced Computer Graphics: a ray tracer that implemented photon mapping (global and caustic), phong shading and CSG. I got 76%, one of few maths students to pass this module.
