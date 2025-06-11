@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Who are you?
 As a maths graduate, when I started work as a software engineer it wasn't the logic of the code or concepts that were most challenging, it was my lack of knowledge about computers compared to computer science grads. Hence, when transitioning back to work after sick leave, I started with projects like the [_CHIP-8 Emulator_](https://github.com/CarolineMillan/CHIP8_emulator), that would give me a foundation of computer science/architecture knowledge. I am also interested in writing up and expanding on my old coursework projects that I lost when my old laptop died (before I discovered version control...), and exploring various areas of computer science.
 
--->
 
 I am a maths graduate with software engineering experience. I am transitioning back into work after a period of sick leave, starting with some personal projects (see "Recent Projects"). I am currently focusing on building a ray tracer, and building a solid foundational knowledge of computer science/architecture. 
 
@@ -38,3 +37,4 @@ I am a maths graduate with software engineering experience. I am transitioning b
 ### Projects/Courses I've got my eye on: 
 - Building a compiler/interpreter using the book [Crafting Interpreters](https://craftinginterpreters.com/)
 - Continuing with the ray tracer in Rust using [Ray Tracing: The Rest of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
+-->
