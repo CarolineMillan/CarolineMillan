@@ -25,7 +25,7 @@
 ### Professional Experience
 
 - **Telecommunications Software Engineer**  
-  Worked on GE Smallworld (GIS software) using Magik.
+  Working on GE Smallworld (GIS software) using Magik.
 
 ### University Projects
 
