@@ -31,7 +31,7 @@
 
 These are all from my time at the University of Bath. Programming projects were done with the Department of Computer Science. 
 
-- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ (**76%**, one of few maths students to pass this module)
+- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ (**76%**) <!--, one of few maths students to pass this module) -->
 - **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell (**80%**)
 - Various MATLAB and R projects in my maths and stats modules
 
