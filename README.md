@@ -22,11 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=pathtracer_rs&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/pathtracer_rs)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=codecrafters-shell-rust&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/codecrafters-shell-rust)
 
-### Professional Experience
-
-- **Telecommunications Software Engineer**  
-  Working on GE Smallworld (GIS software) using Magik.
-
 ### University Projects
 
 These are all from my time at the University of Bath. Programming projects were done with the Department of Computer Science. 
