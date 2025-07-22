@@ -30,11 +30,13 @@ These are all from my time at the University of Bath. Programming projects were 
 - **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell (**80%**)
 - Various MATLAB and R projects in my maths and stats modules
 
-### Currently Learning
+### Currently Working On
 
 - [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer)
 
 - Continuing with the path tracer in Rust using [_Ray Tracing: The Rest of Your Life_](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
+
+- Refactoring my C++ raytracer code
 
 <!--
 ### Get in Touch!
