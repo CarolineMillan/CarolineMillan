@@ -27,13 +27,13 @@
 
 These are all from my time at the University of Bath. Programming projects were done with the Department of Computer Science. 
 
-- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ (**76%**) <!--, one of few maths students to pass this module) -->
-- **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell (**80%**)
+- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ <!-- (**76%**), one of few maths students to pass this module) -->
+- **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell <!-- (**80%**) -->
 - Various MATLAB and R projects in my maths and stats modules
 
 ### Currently Working On
 
-- [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer)
+- [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer), module 5 of 6
 
 - Continuing with the path tracer in Rust using [_Ray Tracing: The Rest of Your Life_](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
 
