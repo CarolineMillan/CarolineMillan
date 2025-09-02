@@ -20,8 +20,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=CHIP8_emulator&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/CHIP8_emulator)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=pathtracer_rs_bk2&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/pathtracer_rs_bk2)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=pathtracer_rs&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/pathtracer_rs)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=codecrafters-shell-rust&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/codecrafters-shell-rust)
 
 ### University Projects
 
