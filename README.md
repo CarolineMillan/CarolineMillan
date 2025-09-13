@@ -31,11 +31,9 @@ These are all from my time at the University of Bath. Programming projects were 
 
 ### Currently Working On
 
-- [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer), module 5 of 6
-
-- Continuing with the path tracer in Rust using [_Ray Tracing: The Rest of Your Life_](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) and beyond.
-
+- [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer), module 6 of 6
 - Refactoring my C++ raytracer code
+- Building a grep in C++ using Thompson's NFA construction
 
 <!--
 ### Get in Touch!
