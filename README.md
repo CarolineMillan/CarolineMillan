@@ -2,7 +2,7 @@
 
 ### About Me
 
-**Maths graduate turned software engineer**, currently building my portfolio with personal projects and hands-on courses. 
+**Maths graduate turned software engineer**, currently building my portfolio with personal projects and hands-on courses. Working primarily in Rust, C++ & Python.
 
 ### Tools & Technologies
 
@@ -21,18 +21,19 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=CHIP8_emulator&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/CHIP8_emulator)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=pathtracer_rs_bk2&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/pathtracer_rs_bk2)&nbsp;
 
+<!--
 ### University Projects
 
 These are all from my time at the University of Bath. Programming projects were done with the Department of Computer Science. 
 
-- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ <!-- (**76%**), one of few maths students to pass this module) -->
-- **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell <!-- (**80%**) -->
+- **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ <!-- (**76%**), one of few maths students to pass this module)
+- **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell <!-- (**80%**)
 - Various MATLAB and R projects in my maths and stats modules
-
+-->
 ### Currently Working On
 
 - [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer), module 6 of 6
-- Refactoring my C++ raytracer code
+- Refactoring my old C++ raytracer code
 - Building a grep in C++ using Thompson's NFA construction
 
 <!--
