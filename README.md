@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 ### About Me
-
-**Maths graduate turned software engineer**, currently building my portfolio with personal projects and hands-on courses.
-
-### Tools & Technologies
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -13,10 +8,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+**Maths graduate turned software engineer**, currently building my portfolio with personal projects and hands-on courses.
+
 ### Selected Public Projects
 
+- [CHIP-8 Emulator](https://github.com/CarolineMillan/CHIP8_emulator)
+- [Path Tracer](https://github.com/CarolineMillan/pathtracer_rs_bk2)
+- [POSIX-compliant shell](https://github.com/CarolineMillan/codecrafters-shell-rust)
+- [Ray Tracer](https://github.com/CarolineMillan/raytracer_cpp) with Photon Mapping
+- [Lambda Calculus interpreter](https://github.com/CarolineMillan/lambda_calculus) with a Krivine Abstract Machine in Haskell
+- [AI Agent](https://github.com/CarolineMillan/my_ai_agent) using the Gemini API
+
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=CHIP8_emulator&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/CHIP8_emulator)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineMillan&repo=pathtracer_rs_bk2&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan/pathtracer_rs_bk2)&nbsp;
+-->
 
 <!--
 ### University Projects
@@ -24,7 +30,7 @@
 These are all from my time at the University of Bath. Programming projects were done with the Department of Computer Science. 
 
 - **Advanced Computer Graphics** coursework: Classic Ray Tracer with Photon Mapping in C++ <!-- (**76%**), one of few maths students to pass this module)
-- **Functional Programming** coursework: Lambda Calculus and builiding a Krivine Abstract Machine in Haskell <!-- (**80%**)
+- **Functional Programming** coursework: Lambda Calculus interpreter with a Krivine Abstract Machine in Haskell <!-- (**80%**)
 - Various MATLAB and R projects in my maths and stats modules
 -->
 ### Currently Working On
