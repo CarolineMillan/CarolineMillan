@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-**Maths graduate turned software engineer**, currently building my portfolio with personal projects and hands-on courses.
+**Maths graduate & early-career software engineer**, currently building my portfolio with personal projects and hands-on courses.
 
 ### Selected Public Projects
 
