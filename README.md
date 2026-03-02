@@ -38,7 +38,7 @@ These are all from my time at the University of Bath. Programming projects were 
 ### Currently Working On
 
 - [_From Nand To Tetris_](https://www.coursera.org/learn/build-a-computer), module 6 of 6
-- [boot.dev](https://www.boot.dev)
+- [boot.dev](https://www.boot.dev/u/elementaryread27)
 - Building a grep in C++ using Thompson's NFA construction
 
 <!--
