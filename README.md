@@ -48,8 +48,10 @@ icons for:
 - email
 - linkedin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineMillan&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineMillan&layout=compact&theme=catppuccin_latte)](https://github.com/CarolineMillan)
+
 <!--
 **CarolineMillan/CarolineMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
