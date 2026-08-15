@@ -8,7 +8,7 @@ I work mostly in C++, Rust and Haskell.
 
 ## Projects
 
-- **[grape](https://github.com/CarolineMillan/grape)** (C++): a grep-style regex engine built on Thompson's NFA construction, for linear-time matching without catastrophic backtracking.
+- **[NFA-Based Regex Engine](https://github.com/CarolineMillan/grape)** (C++): a grep-style regex engine built on Thompson's NFA construction, for linear-time matching without catastrophic backtracking.
 - **[Ray Tracer with Photon Mapping](https://github.com/CarolineMillan/raytracer_cpp)** (C++): a Whitted-style ray tracer with global illumination via photon mapping, following Jensen's 1996 paper.
 - **[Lambda Calculus Interpreter](https://github.com/CarolineMillan/lambda_calculus)** (Haskell): evaluates lambda calculus expressions using a Krivine Abstract Machine.
 - **[Hack Assembler](https://github.com/CarolineMillan/HackAssembler_hs)** (Haskell): a two-pass assembler for the Hack instruction set, from Nand2Tetris.
