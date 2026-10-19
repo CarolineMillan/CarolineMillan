@@ -6,7 +6,7 @@ My projects tend to be implementations of mathematical ideas: a regex engine tha
 
 I work mostly in C++, Rust and Haskell.
 
-Currently working on **[Hack VM Translator](https://github.com/CarolineMillan/HackVMTranslator)**
+Currently working on a **[Hack VM Translator](https://github.com/CarolineMillan/HackVMTranslator)** in C++.
 
 ## Projects
 
