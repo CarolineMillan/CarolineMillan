@@ -6,6 +6,8 @@ My projects tend to be implementations of mathematical ideas: a regex engine tha
 
 I work mostly in C++, Rust and Haskell.
 
+Currently working on **[Hack VM Translator](https://github.com/CarolineMillan/HackVMTranslator)**
+
 ## Projects
 
 - **[NFA-Based Regex Engine](https://github.com/CarolineMillan/grape)** (C++): a grep-style regex engine built on Thompson's NFA construction, for linear-time matching without catastrophic backtracking.
