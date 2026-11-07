@@ -6,13 +6,14 @@ I work mostly in C++, with projects in Rust, Haskell, Python and Go.
 
 My professional experience is writing Magik for GE Smallworld, which is GIS software dealing with large-scale geospatial databases.
 
-Currently working on a **[Hack VM Translator](https://github.com/CarolineMillan/HackVMTranslator)** in C++.
+Currently working on a **[Hack Compiler](https://github.com/CarolineMillan/HackCompiler)** in C++.
 
 ## Projects
 
 - **[NFA-Based Regex Engine](https://github.com/CarolineMillan/grape)** (C++): a grep-style regex engine built on Thompson's NFA construction, for linear-time matching without catastrophic backtracking.
 - **[Ray Tracer with Photon Mapping](https://github.com/CarolineMillan/raytracer_cpp)** (C++): a Whitted-style ray tracer with global illumination via photon mapping, following Jensen's 1996 paper.
+- **[Hack VM Translator](https://github.com/CarolineMillan/HackVMTranslator)** (C++): The back-end of the compiler, from the course 'From NAND to Tetris', based on the Java Virtual Machine.
+- **[Hack Assembler](https://github.com/CarolineMillan/HackAssembler_hs)** (Haskell): a two-pass assembler for the Hack instruction set, from the course 'From NAND to Tetris'.
 - **[Lambda Calculus Interpreter](https://github.com/CarolineMillan/lambda_calculus)** (Haskell): evaluates lambda calculus expressions using a Krivine Abstract Machine.
-- **[Hack Assembler](https://github.com/CarolineMillan/HackAssembler_hs)** (Haskell): a two-pass assembler for the Hack instruction set, from Nand2Tetris.
 - **[CHIP-8 Emulator](https://github.com/CarolineMillan/CHIP8_emulator)** (Rust): an interpreter that runs any standard CHIP-8 program; passes Timendus' test suite.
 - **[Path Tracer](https://github.com/CarolineMillan/pathtracer_rs_bk2)** (Rust): Peter Shirley's Ray Tracing series, translated from C++ to Rust.
