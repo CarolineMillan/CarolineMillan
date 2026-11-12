@@ -6,7 +6,7 @@ I work mostly in C++, with projects in Rust, Haskell, Python and Go.
 
 My professional experience is writing Magik for GE Smallworld, which is GIS software dealing with large-scale geospatial databases.
 
-Currently working on a **[Hack Compiler](https://github.com/CarolineMillan/HackCompiler)** in C++.
+Currently working on a **[Jack Compiler](https://github.com/CarolineMillan/JackCompiler)** in C++.
 
 ## Projects
 
